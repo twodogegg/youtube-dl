@@ -329,7 +329,7 @@ class YoutubeDL(object):
         'start_time', 'end_time',
         'chapter_number', 'season_number', 'episode_number',
         'track_number', 'disc_number', 'release_year',
-        'playlist_index',
+        'playlist_index', 'categories'
     ))
 
     params = None
